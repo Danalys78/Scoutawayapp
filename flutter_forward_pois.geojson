@@ -8,7 +8,7 @@
       "properties": {
            "name": "Main Stage",
  "category": "Entertainment",
- "icon": "https://cdn.prod.website-files.com/626bc61e8d811f2fee26fa9b/68f8b74402ab3787d5b8c50b_marker.png",
+ "iconUrl": "https://cdn.prod.website-files.com/626bc61e8d811f2fee26fa9b/68f8b74402ab3787d5b8c50b_marker.png",
 "text": "Catch your favorite artists here!",
 "image": "https://content.api.news/v3/images/bin/47c005d8aeada4872b3816f16041185f"
       },
